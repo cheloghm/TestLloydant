@@ -1,2 +1,2 @@
 # TestLloydant
-testing repo
+testing repo for git commands demostration
